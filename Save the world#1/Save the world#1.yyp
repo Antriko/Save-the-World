@@ -79,18 +79,10 @@
             }
         },
         {
-            "Key": "206e15c1-f332-4207-9f68-e86111cbf602",
+            "Key": "2b0bc5a3-e919-476d-a8a4-ca95fc4f8bd5",
             "Value": {
-                "id": "620ee395-44ee-4404-b6b9-6e3a3244e5ee",
+                "id": "bd6fabea-c6f8-49e1-8c87-4e668bd055ac",
                 "resourcePath": "sprites\\sprite0\\sprite0.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "281d6fbf-f591-4a82-836f-7c93ff85d089",
-            "Value": {
-                "id": "ccdf9093-2de9-40c4-8795-72bb4f442283",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,11 +159,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "7d427f3f-8b15-450e-a4d2-863573e8371e",
             "Value": {
                 "id": "57f1a359-35aa-4245-b3b0-8f454981a131",
                 "resourcePath": "objects\\text\\text.yy",
                 "resourceType": "GMObject"
+=======
+            "Key": "760b3d23-eefa-437d-8aab-2d6c83580e61",
+            "Value": {
+                "id": "f337947e-11a8-46d2-bdb2-91e10da21006",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
+>>>>>>> start
             }
         },
         {
@@ -204,6 +204,14 @@
                 "id": "da6938a0-ca98-4b68-8e0e-e06c2d3bb26d",
                 "resourcePath": "views\\9dd43826-df6d-4d0e-b179-06836ee633e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0664883-67da-46ff-91c6-ede8951889d8",
+            "Value": {
+                "id": "6cef87d8-699a-44a0-bc7e-e3b4f3980d51",
+                "resourcePath": "objects\\SAVE\\SAVE.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -252,6 +260,14 @@
                 "id": "78c21d7f-09c6-4eef-b4eb-d852cc308527",
                 "resourcePath": "views\\b3a361b6-c18e-4a22-bc3e-fb779a2bd37c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c0f9a8da-adfa-4e38-b2d5-b2dae08adb8f",
+            "Value": {
+                "id": "8b91b471-0f4c-4862-a757-dc4188c98d93",
+                "resourcePath": "objects\\earth\\earth.yy",
+                "resourceType": "GMObject"
             }
         },
         {
