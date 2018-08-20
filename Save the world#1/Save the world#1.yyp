@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "7d427f3f-8b15-450e-a4d2-863573e8371e",
+            "Value": {
+                "id": "57f1a359-35aa-4245-b3b0-8f454981a131",
+                "resourcePath": "objects\\text\\text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80e8d4a3-3b3b-406f-87a7-10cffda59ab0",
             "Value": {
                 "id": "d2578549-4331-4763-a572-8a37185da586",
