@@ -1,2 +1,2 @@
-global.Scre += 10
-instance_destroy()
+global.Scre += 1
+instance_destroy(self)

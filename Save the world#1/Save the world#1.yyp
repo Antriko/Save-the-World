@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "6ea69864-cbe7-4cf2-89ba-2188df6a09de",
+            "Value": {
+                "id": "eec0784e-048d-4fe6-af98-a54055a2d707",
+                "resourcePath": "objects\\planet\\planet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "71656272-352c-401e-b043-ae91fba1af31",
             "Value": {
                 "id": "03f5e84c-9165-4b39-a59a-c71a9d40b43f",
@@ -252,6 +260,14 @@
                 "id": "33ad5b0a-ef5e-4ac5-b740-f5235c47a3c6",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e03867d8-be37-4902-9130-59bc58372515",
+            "Value": {
+                "id": "bb094b0e-0433-4b05-828a-a40d3b3addee",
+                "resourcePath": "fonts\\ingameFont\\ingameFont.yy",
+                "resourceType": "GMFont"
             }
         }
     ],
