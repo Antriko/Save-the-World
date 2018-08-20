@@ -1,2 +1,2 @@
-global.Scre += 1
+global.Scre += 10
 instance_destroy()
