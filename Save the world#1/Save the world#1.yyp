@@ -95,6 +95,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "371e5032-3788-4aaa-a49b-a3db5d1f3ed6",
             "Value": {
                 "id": "b61da80f-74ef-493b-bb19-c9c9d044c363",
@@ -103,6 +104,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 030232d... Merge branch 'master' of https://github.com/Antriko/Save-the-World
             "Key": "4943650b-bcae-43e2-a5e9-fb0d2aa0ffaf",
             "Value": {
                 "id": "30727019-6267-449d-82a1-510535fa59ab",
@@ -295,7 +298,11 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e03867d8-be37-4902-9130-59bc58372515",
+=======
+            "Key": "dccb19bb-c392-4f0f-8cb1-e9795fbadf0d",
+>>>>>>> parent of 030232d... Merge branch 'master' of https://github.com/Antriko/Save-the-World
             "Value": {
                 "id": "bb094b0e-0433-4b05-828a-a40d3b3addee",
                 "resourcePath": "fonts\\ingameFont\\ingameFont.yy",
