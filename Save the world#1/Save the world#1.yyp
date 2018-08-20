@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0d9ee0fa-d872-480d-abc3-7e84dd87c0e8",
+            "Value": {
+                "id": "68eb917a-d6e4-44f5-9d7f-d6ef36926f18",
+                "resourcePath": "objects\\meteor1\\meteor1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1599a477-4d39-4062-a951-984ea08a7741",
             "Value": {
                 "id": "f2353f16-cfb7-4e78-a050-9f8e401c84d5",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "4230f21e-55e4-4581-8e82-a0f2aa68c7d5",
+            "Value": {
+                "id": "a1d0869c-1ade-441b-8118-3b7199df9984",
+                "resourcePath": "sprites\\meteor2\\meteor2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4943650b-bcae-43e2-a5e9-fb0d2aa0ffaf",
             "Value": {
                 "id": "30727019-6267-449d-82a1-510535fa59ab",
@@ -116,6 +132,14 @@
                 "id": "5fbac281-4907-4817-811e-c9cde84b552b",
                 "resourcePath": "objects\\asteroid\\asteroid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5a980067-b454-4687-99bb-13708d165c82",
+            "Value": {
+                "id": "a484c5e3-2051-4db1-8beb-44fcec81986e",
+                "resourcePath": "sprites\\stars\\stars.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "8d41408b-bed5-4ece-8448-537ee5c9a014",
+            "Value": {
+                "id": "83867b0f-802f-491d-b8bc-b237d4a7ae7b",
+                "resourcePath": "sprites\\metero1\\metero1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94355ee9-534e-4ff7-b2fa-a77b0a02b475",
             "Value": {
                 "id": "c1497175-4bd2-4c02-b6c4-a27d6cfbb161",
@@ -204,6 +236,14 @@
                 "id": "a2bf6156-3ca8-4ca1-a9b9-070120035a91",
                 "resourcePath": "rooms\\rn_start\\rn_start.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a301c0f5-f322-4846-9fa5-d9389759da12",
+            "Value": {
+                "id": "b8123467-16bc-485e-9d59-abd530f1fe13",
+                "resourcePath": "objects\\meteore2\\meteore2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
