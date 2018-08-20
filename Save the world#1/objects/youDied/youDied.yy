@@ -2,7 +2,7 @@
     "id": "7d427f3f-8b15-450e-a4d2-863573e8371e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "text",
+    "name": "youDied",
     "eventList": [
         {
             "id": "91224a92-dc7d-4eba-a708-7d6ccb147443",
