@@ -1,8 +1,8 @@
 {
-    "id": "a0664883-67da-46ff-91c6-ede8951889d8",
+    "id": "a301c0f5-f322-4846-9fa5-d9389759da12",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "SAVE",
+    "name": "meteore2",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ac1d6ec8-ce78-4078-a428-dc626682a3f5",
+    "spriteId": "4230f21e-55e4-4581-8e82-a0f2aa68c7d5",
     "visible": true
 }
