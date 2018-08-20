@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "371e5032-3788-4aaa-a49b-a3db5d1f3ed6",
+            "Value": {
+                "id": "b61da80f-74ef-493b-bb19-c9c9d044c363",
+                "resourcePath": "scripts\\scr_vars\\scr_vars.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4943650b-bcae-43e2-a5e9-fb0d2aa0ffaf",
             "Value": {
                 "id": "30727019-6267-449d-82a1-510535fa59ab",
@@ -148,6 +156,14 @@
                 "id": "01c883ee-bc69-4baa-86c8-aa6a65469916",
                 "resourcePath": "views\\6e66e7ab-fb8e-4d0d-8597-949570a5ac95.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ea69864-cbe7-4cf2-89ba-2188df6a09de",
+            "Value": {
+                "id": "eec0784e-048d-4fe6-af98-a54055a2d707",
+                "resourcePath": "objects\\planet\\planet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -277,10 +293,18 @@
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
+        },
+        {
+            "Key": "e03867d8-be37-4902-9130-59bc58372515",
+            "Value": {
+                "id": "bb094b0e-0433-4b05-828a-a40d3b3addee",
+                "resourcePath": "fonts\\ingameFont\\ingameFont.yy",
+                "resourceType": "GMFont"
+            }
         }
     ],
     "script_order": [
-        
+        "371e5032-3788-4aaa-a49b-a3db5d1f3ed6"
     ],
     "tutorial": ""
 }

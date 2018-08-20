@@ -6,12 +6,21 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
+<<<<<<< HEAD
     "bbox_bottom": 293,
     "bbox_left": 0,
     "bbox_right": 297,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
+=======
+    "bbox_bottom": 54,
+    "bbox_left": 9,
+    "bbox_right": 57,
+    "bbox_top": 7,
+    "bboxmode": 2,
+    "colkind": 2,
+>>>>>>> ingame
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
