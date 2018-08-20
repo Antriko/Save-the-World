@@ -1,0 +1,1 @@
+draw_text(125,125,fghd)

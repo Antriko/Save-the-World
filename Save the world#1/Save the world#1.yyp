@@ -163,7 +163,7 @@
             "Key": "7d427f3f-8b15-450e-a4d2-863573e8371e",
             "Value": {
                 "id": "57f1a359-35aa-4245-b3b0-8f454981a131",
-                "resourcePath": "objects\\youDied\\youDied.yy",
+                "resourcePath": "objects\\text\\text.yy",
                 "resourceType": "GMObject"
 =======
             "Key": "760b3d23-eefa-437d-8aab-2d6c83580e61",
@@ -276,14 +276,6 @@
                 "id": "33ad5b0a-ef5e-4ac5-b740-f5235c47a3c6",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "dccb19bb-c392-4f0f-8cb1-e9795fbadf0d",
-            "Value": {
-                "id": "0649aa89-4c56-4dd1-82d3-aff215e6a43d",
-                "resourcePath": "fonts\\fnt0\\fnt0.yy",
-                "resourceType": "GMFont"
             }
         }
     ],
