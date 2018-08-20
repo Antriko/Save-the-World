@@ -1,1 +1,2 @@
-lives -= 1
+spawner.livesRemaining -= 1
+instance_destroy(other)

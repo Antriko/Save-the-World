@@ -1,2 +1,4 @@
-livesRemaining = 3
-alarm[0] = random_range(60,120)
+scr_vars();
+livesRemaining = 3;
+spawnSpeed = room_speed-(global.Scre/10);
+alarm[0] = spawnSpeed;
