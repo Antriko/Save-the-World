@@ -261,6 +261,14 @@
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
+        },
+        {
+            "Key": "dccb19bb-c392-4f0f-8cb1-e9795fbadf0d",
+            "Value": {
+                "id": "0649aa89-4c56-4dd1-82d3-aff215e6a43d",
+                "resourcePath": "fonts\\fnt0\\fnt0.yy",
+                "resourceType": "GMFont"
+            }
         }
     ],
     "script_order": [
